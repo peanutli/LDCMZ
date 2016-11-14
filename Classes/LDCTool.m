@@ -10,4 +10,8 @@
 
 @implementation LDCTool
 
+- (void)name{
+    NSLog(@"hello !=====");
+}
+
 @end
